@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/buddyeorl/theServingServer/issues"
   },
-  "homepage": "https://github.com/buddyeorl/theServingServer#readme"
+  "homepage": "https://github.com/buddyeorl/theServingServer#readme",
+  "engines": {
+    "node": "8.9.3"
+  }
 }
