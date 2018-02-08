@@ -3,6 +3,7 @@
   "lockfileVersion": 1,
   "dependencies": {},
   "scripts": {
+    "config" : { "port" : "3001" },
     "start": "node server.js"
   },
   "name": "theservingserver",
