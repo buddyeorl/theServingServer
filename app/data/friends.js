@@ -5,8 +5,8 @@
 
 var userData =[
 	{
-	  name:"Dummy1",
-	  photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+	  name:"Bart AKA El Barto",
+	  photo:"https://davidkallin.files.wordpress.com/2010/11/bart-simpson.jpg",
 	  scores:[
 	      1,
 	      1,
@@ -21,8 +21,8 @@ var userData =[
 	    ]
 	},
 	{
-		name:"Dummy2",
-		photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+		name:"Captain America",
+		photo:"http://cdn.player.one/sites/player.one/files/2017/03/15/captain-america-chris-evans_0.jpg",
 		scores:[
 				2,
 				2,
@@ -37,8 +37,8 @@ var userData =[
 			]
 	},
 	{
-		name:"Dummy3",
-		photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+		name:"Wonder Woman",
+		photo:"http://media.comicbook.com/2017/06/wonderwoman-movie-2017-1000798-1280x0.png",
 		scores:[
 				3,
 				3,
@@ -53,8 +53,8 @@ var userData =[
 			]
 	},
 	{
-		name:"Dummy4",
-		photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+		name:"Iron Man",
+		photo:"https://i.pinimg.com/736x/a7/d1/20/a7d120725de1696577d279777a50d4b4--digital-portrait-digital-art.jpg",
 		scores:[
 				4,
 				4,
@@ -72,5 +72,5 @@ var userData =[
 
 
 
-// Note how we export the array. This makes it accessible to other files using require.
+// This makesu serData accessible to other files using require.
 module.exports = userData;
